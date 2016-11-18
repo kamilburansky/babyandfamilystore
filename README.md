@@ -15,12 +15,16 @@ Options to config in test:
 
 -searching
 final String searchingWord = "monitor"; - word, that is usually used in this webpage, can be changed
+
 final String searchingSpecificWord = "Tomy Baby Digital Monitor TF525";  - try to find a specific item with this name, can be changed
 
+
 -creating/logging user
+
 final String emailAccount = "kamilburansky@gmail.com";  //- creating account using this email, can be changed
+
 final String firstName = "Kamil"; //- creating account using this firstName, can be changed
+
 final String lastName = "Buransky"; //- creating account using this lastName, can be changed
+
 final String passwordString = "_123passworD123";  //- creating/logging account using this password, can be changed
-
-
